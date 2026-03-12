@@ -10,4 +10,4 @@ Report Document: PDF/Doc version of the analysis
 
 Sample Email Evidence: Raw headers and screenshots of phishing emails
 
-Analysis Tools & Approach: Explanation of methodology and tools used
+
